@@ -1,14 +1,20 @@
-## This is a Restaurant Web App.
+## 👨‍💻This is a Restaurant Web App.
 
+### 📺 Demo Images
 ![nextjs-leafy-hut](https://user-images.githubusercontent.com/59244522/188194288-fc9ce8b6-0b17-46d6-8cd3-942fbc22cc56.png)
 
+### 🏷️ Prerequisites
 
-#### Installation
+- Have **NodeJs** installed
+
+### 🏷️ Installation
  1. Fork, clone or download this repository.
  2. Run ` npm install ` or ` yarn install `.
 
     > git clone git@example.org/user/repository-name-directory.git
+    > 
     > cd repository-name-directory
+    > 
     > npm install / yarn install 
 
 ##### Run App::
@@ -17,6 +23,9 @@
     > yarn dev
 
 📌 in 2022;
+
+![nextjs-thumb-256px](https://user-images.githubusercontent.com/59244522/188195545-7e901088-0e01-41c7-867d-c76becc95469.png)
+
 
 ______________
 ______________
